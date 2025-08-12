@@ -26,8 +26,9 @@ cd rock-paper-scissors
 
 ```
 
-
+```bash
 python3 main.py
+```
 
 
 ---
