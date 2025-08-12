@@ -32,17 +32,13 @@ python3 main.py
 ```
 
 ---
-
-## Dependencies
-
+Dependencies
 Python 3.x
 
 Built-in Python modules: tkinter and random
 
 ---
-
-## How to Play
-
+How to Play
 Click on one of the three buttons: Rock 🪨, Paper 📄, or Scissors ✂️.
 
 The computer will make a random choice.
@@ -51,10 +47,10 @@ The winner is displayed along with the updated score.
 
 Use the "Play Again" button to reset the choices and results (score remains).
 
+
+
 ---
-
-## License
-
+License
 MIT License
 
 ---
