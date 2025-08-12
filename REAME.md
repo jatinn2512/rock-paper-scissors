@@ -18,7 +18,7 @@ A simple and stylish **Rock Paper Scissors** game built using Python's Tkinter l
 Simply copy-paste the following commands in your terminal to get started:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/jatinn2512/rock-paper-scissors.git
 ```
 
 ```bash
