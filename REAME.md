@@ -20,13 +20,16 @@ Simply copy-paste the following commands in your terminal to get started:
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/rock-paper-scissors.git
-
+```
+```bash
 # Go into the project folder
 cd rock-paper-scissors
+```
+
 
 # Run the game (replace 'main.py' if your file name is different)
 python3 main.py
-
+```
 
 ---
 
